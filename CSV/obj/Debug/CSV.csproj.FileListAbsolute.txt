@@ -1,0 +1,9 @@
+d:\graatz\dokumenty\visual studio 2015\Projects\CSV\CSV\bin\Debug\CSV.exe.config
+d:\graatz\dokumenty\visual studio 2015\Projects\CSV\CSV\bin\Debug\CSV.exe
+d:\graatz\dokumenty\visual studio 2015\Projects\CSV\CSV\bin\Debug\CSV.pdb
+d:\graatz\dokumenty\visual studio 2015\Projects\CSV\CSV\obj\Debug\CSV.csprojResolveAssemblyReference.cache
+d:\graatz\dokumenty\visual studio 2015\Projects\CSV\CSV\obj\Debug\CSV.Form1.resources
+d:\graatz\dokumenty\visual studio 2015\Projects\CSV\CSV\obj\Debug\CSV.Properties.Resources.resources
+d:\graatz\dokumenty\visual studio 2015\Projects\CSV\CSV\obj\Debug\CSV.csproj.GenerateResource.Cache
+d:\graatz\dokumenty\visual studio 2015\Projects\CSV\CSV\obj\Debug\CSV.exe
+d:\graatz\dokumenty\visual studio 2015\Projects\CSV\CSV\obj\Debug\CSV.pdb
